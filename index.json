@@ -1,12 +1,12 @@
 {
-  "created_at": "2026-11-06T20:02:19Z",
+  "created_at": "2026-11-08T18:26:27Z",
   "packs": {
     "fx": {
-      "bytes": 4173,
+      "bytes": 4544,
       "covers": "Banque Misr's transfer-rate midpoints, in pounds",
-      "created_at": "2026-11-05T20:46:38Z",
+      "created_at": "2026-11-08T18:26:27Z",
       "instruments": 13,
-      "last_date": "2026-11-05",
+      "last_date": "2026-11-08",
       "name": "Exchange rates",
       "source": "Banque Misr (banquemisr.com; transfer buy/sell midpoint)",
       "venues": []
