@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-11-12T21:00:49Z",
+  "created_at": "2026-11-15T19:27:07Z",
   "files": {
     "daily/2026-10.csv": {
       "bytes": 1121,
@@ -9,27 +9,27 @@
       "sha256": "2a813296c4d5e75050ed18f137f44aef95b9bc0339273da17ac666610baf59a8"
     },
     "daily/2026-11.csv": {
-      "bytes": 2227,
+      "bytes": 2594,
       "first_date": "2026-11-04",
-      "last_date": "2026-11-12",
-      "rows": 78,
-      "sha256": "b125d56f7953fba9d143a0d63b2a3a7aac8ed05939e3a87b47a69484c42eb186"
+      "last_date": "2026-11-15",
+      "rows": 91,
+      "sha256": "b24138c958a678ebbe4fc2347f61b304cae4a0c04e8ac35c461766ebe96990e8"
     },
     "health.json": {
       "bytes": 285,
-      "sha256": "1fdb5ff33756011be8bb1ecbb67ac70637924ced507baacd31bf9042006d7de4"
+      "sha256": "6b6cb4f4ce4d0498a839622eac88319bb3733333d352e5963b05debd4691c347"
     },
     "instruments.csv": {
       "bytes": 1264,
       "rows": 13,
-      "sha256": "26f6f0f0efceb8bdd6240af1e3afe81a07677f74b702d598fc4b330f48af4244"
+      "sha256": "e9cd46a2f968f517191025eb335e60290983cd8ae49f44fea7b3d97390a7551c"
     },
     "monthly/2026.csv": {
-      "bytes": 751,
+      "bytes": 750,
       "first_date": "2026-10-11",
-      "last_date": "2026-11-12",
+      "last_date": "2026-11-15",
       "rows": 26,
-      "sha256": "6672437fe593f0d3a8ac4e8dcf1258ebbfcddfbd8332dc1391c5e5e300f42857"
+      "sha256": "2b60f92979bbb169e7a36838f82f7b9426d45218347abd672935fe0ea47ea4df"
     }
   },
   "pack": "fx",
